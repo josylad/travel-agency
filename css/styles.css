@@ -1,0 +1,26 @@
+h1 {
+  color:#f7325e;
+}
+.image {
+  display: flex;
+  flex-direction: row;
+}
+.contact {
+  color: blue;
+}
+.tropical h2{
+  color:#f7325e;
+}
+.tropical h3{
+  color:#f7325e;
+}
+.tropical p {
+  color: #7dc410;
+}
+.tropical{
+  font-family: fantasy;
+}
+.popular{
+  background-color: #f6f6f1;
+  padding: 10px;
+}
